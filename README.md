@@ -6,18 +6,19 @@
 
 ## 📂 Problem Directory
 
-| #   | Problem Title                                               | Folder Link                                                         |
-|-----|-------------------------------------------------------------|----------------------------------------------------------------------|
-| 175 | Combine Two Tables                                          | [🔗 175-combine-two-tables](./175-combine-two-tables)                |
-| 182 | Duplicate Emails                                            | [🔗 182-duplicate-emails](./182-duplicate-emails)                    |
-| 183 | Customers Who Never Order                                  | [🔗 183-customers-who-never-order](./183-customers-who-never-order) |
-| 196 | Delete Duplicate Emails                                     | [🔗 196-delete-duplicate-emails](./196-delete-duplicate-emails)      |
-| 197 | Rising Temperature                                          | [🔗 197-rising-temperature](./197-rising-temperature)                |
-| 577 | Employee Bonus                                              | [🔗 577-employee-bonus](./577-employee-bonus)                        |
-| 584 | Find Customer Referee                                       | [🔗 584-find-customer-referee](./584-find-customer-referee)          |
-| 595 | Big Countries                                               | [🔗 595-big-countries](./595-big-countries)                          |
-| 596 | Classes With at Least 5 Students                            | [🔗 596-classes-with-at-least-5-students](./596-classes-with-at-least-5-students) |
-| 610 | Triangle Judgement                                          | [🔗 610-triangle-judgement](./610-triangle-judgement)                |
+| #   | Difficulty | Problem Title                                               | Folder Link                                                         |
+|-----|------------|-------------------------------------------------------------|----------------------------------------------------------------------|
+| 175 | 🟢 Easy     | Combine Two Tables                                          | [🔗 175-combine-two-tables](./175-combine-two-tables)                |
+| 181 | 🟢 Easy     | Employees Earning More Than Their Managers                 | [🔗 181-employees-earning-more-than-their-managers](./181-employees-earning-more-than-their-managers) |
+| 182 | 🟢 Easy     | Duplicate Emails                                            | [🔗 182-duplicate-emails](./182-duplicate-emails)                    |
+| 183 | 🟢 Easy     | Customers Who Never Order                                  | [🔗 183-customers-who-never-order](./183-customers-who-never-order) |
+| 196 | 🟢 Easy     | Delete Duplicate Emails                                     | [🔗 196-delete-duplicate-emails](./196-delete-duplicate-emails)      |
+| 197 | 🟢 Easy     | Rising Temperature                                          | [🔗 197-rising-temperature](./197-rising-temperature)                |
+| 577 | 🟢 Easy     | Employee Bonus                                              | [🔗 577-employee-bonus](./577-employee-bonus)                        |
+| 584 | 🟢 Easy     | Find Customer Referee                                       | [🔗 584-find-customer-referee](./584-find-customer-referee)          |
+| 595 | 🟢 Easy     | Big Countries                                               | [🔗 595-big-countries](./595-big-countries)                          |
+| 596 | 🟢 Easy     | Classes With at Least 5 Students                            | [🔗 596-classes-with-at-least-5-students](./596-classes-with-at-least-5-students) |
+| 610 | 🟢 Easy     | Triangle Judgement                                          | [🔗 610-triangle-judgement](./610-triangle-judgement)                |
 
 ---
 
