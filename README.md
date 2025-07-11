@@ -6,14 +6,18 @@
 
 ## 📂 Problem Directory
 
-| #   | Problem Title                                               | Folder Link                                                     |
-|-----|-------------------------------------------------------------|------------------------------------------------------------------|
-| 182 | Duplicate Emails                                            | [🔗 182-duplicate-emails](./182-duplicate-emails)                |
+| #   | Problem Title                                               | Folder Link                                                         |
+|-----|-------------------------------------------------------------|----------------------------------------------------------------------|
+| 175 | Combine Two Tables                                          | [🔗 175-combine-two-tables](./175-combine-two-tables)                |
+| 182 | Duplicate Emails                                            | [🔗 182-duplicate-emails](./182-duplicate-emails)                    |
 | 183 | Customers Who Never Order                                  | [🔗 183-customers-who-never-order](./183-customers-who-never-order) |
-| 196 | Delete Duplicate Emails                                     | [🔗 196-delete-duplicate-emails](./196-delete-duplicate-emails)  |
-| 577 | Employee Bonus                                              | [🔗 577-employee-bonus](./577-employee-bonus)                    |
-| 595 | Big Countries                                               | [🔗 595-big-countries](./595-big-countries)                      |
+| 196 | Delete Duplicate Emails                                     | [🔗 196-delete-duplicate-emails](./196-delete-duplicate-emails)      |
+| 197 | Rising Temperature                                          | [🔗 197-rising-temperature](./197-rising-temperature)                |
+| 577 | Employee Bonus                                              | [🔗 577-employee-bonus](./577-employee-bonus)                        |
+| 584 | Find Customer Referee                                       | [🔗 584-find-customer-referee](./584-find-customer-referee)          |
+| 595 | Big Countries                                               | [🔗 595-big-countries](./595-big-countries)                          |
 | 596 | Classes With at Least 5 Students                            | [🔗 596-classes-with-at-least-5-students](./596-classes-with-at-least-5-students) |
+| 610 | Triangle Judgement                                          | [🔗 610-triangle-judgement](./610-triangle-judgement)                |
 
 ---
 
